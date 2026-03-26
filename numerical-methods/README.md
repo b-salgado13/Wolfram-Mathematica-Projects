@@ -15,8 +15,9 @@ This folder contains a self-contained Mathematica project that implements, compa
     │   └── methods.wl      # Reusable Wolfram Language package
     │
     ├── example-outputs/
-    │   ├── Interactive-Logistic.png
-    │   ├── Interactive-Stefan-Law.png
+    │   ├── Interactive-Logistic.gif
+    │   ├── Interactive-LV.gif
+    │   ├── Interactive-Stefan.gif
     │   ├── Logistic-function-comparison.png
     │   ├── Logistic-function-h-comparison.png
     │   ├── Lotka-Volterra-phase-space.png
@@ -155,9 +156,11 @@ The mean computing time of each method over the three systems is as follows:
 
 The last section of the `notebook.nb` has the following interactive dashboards:
 
-![Interactive_Logistic](example-outputs/Interactive-Logistic.png)
+![Interactive_Logistic](example-outputs/Interactive-Logistic.gif)
 
-![Interactive_Stefan](example-outputs/Interactive-Stefan-Law.png)
+![Interactive_Stefan](example-outputs/Interactive-Stefan.gif)
+
+![Interactive_Lotka-Volterra](example-outputs/Interactive-LV.gif)
 
 ---
 
